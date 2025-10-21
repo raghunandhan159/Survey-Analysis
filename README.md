@@ -110,5 +110,4 @@ fig.show()
 
 Results:
 
-<img width="1512" height="774" alt="Screenshot 2025-10-21 at 3 02 26 PM" src="https://github.com/user-attachments/assets/c76088b9-a667-42cc-8a0e-88f096dc0299" />
-
+![Survey Chart](images/newplot1.png)
