@@ -4,6 +4,15 @@ This project allows you to visualize **Likert-scale survey data** using an inter
 
 The visualization dynamically breaks down responses like **Strongly Agree**, **Agree**, **Neutral**, etc., per question, ensuring results are easy to interpret and share.
 
+## 📈 Output
+
+
+
+![Sample Output](images/newplot1.png)
+
+---
+
+
 ---
 
 
@@ -17,13 +26,6 @@ survey-analysis/
 ├── requirements.txt         
 └── README.md
 
-## 📈 Output
-
-
-
-![Sample Output](images/newplot1.png)
-
----
 
 🔍 Code Explanation
 This project loads survey data from a CSV file and visualizes it using a stacked horizontal bar chart in Plotly. Each question is displayed with responses categorized by a 5-point Likert scale (e.g., Strongly Agree, Agree, etc.).
