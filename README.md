@@ -17,6 +17,14 @@ survey-analysis/
 ├── requirements.txt         
 └── README.md
 
+## 📈 Output
+
+
+
+![Sample Output](images/newplot1.png)
+
+---
+
 🔍 Code Explanation
 This project loads survey data from a CSV file and visualizes it using a stacked horizontal bar chart in Plotly. Each question is displayed with responses categorized by a 5-point Likert scale (e.g., Strongly Agree, Agree, etc.).
 Below is a breakdown of how the code works:
